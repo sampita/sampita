@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi, I'm Sam 👩🏻‍💻
+
+![Baby Yoda cheekily presses button](https://66.media.tumblr.com/f79c4815aa2f2862d659cc4f7f5e12fd/a1994e6c31b20ad4-72/s500x750/6b2a8701ccd2b94bcbd3c02f2b7dadf88ee50ba7.gif)
+
+- 🌱 Relatively new software developer
+- 🏗 Working at a startup company
+- 🤿 Diving waaaaay into the deep end
+- 🥳 Having a blast while doing it
+
+- 👩🏻‍🏫 Currently learning React Native, Elixir
 
 <!--
 **sampita/sampita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
