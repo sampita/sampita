@@ -1,5 +1,5 @@
-# Hello,
-## I'm Sam 👩🏻‍💻
+# Hello, I'm Sam 👩🏻‍💻
+## Nice to meet you!
 
 ![Baby Yoda cheekily presses button](https://66.media.tumblr.com/f79c4815aa2f2862d659cc4f7f5e12fd/a1994e6c31b20ad4-72/s500x750/6b2a8701ccd2b94bcbd3c02f2b7dadf88ee50ba7.gif)
 
