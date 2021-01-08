@@ -1,7 +1,7 @@
 # Hello, I'm Sam 👩🏻‍💻
 ## Nice to meet you!
 
-I'm
+I'm...
 
 - 🌱 A career-changer from audio engineering to software development
 - 🏗 Working at a startup company
