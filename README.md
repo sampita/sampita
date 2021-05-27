@@ -3,7 +3,7 @@
 
 I'm...
 
-- 🌱 A career-changer from audio engineering to software development
+- 🌱 A career-changer into software development
 - 🏗 Working at a startup company
 - 🤿 Diving waaaaay into the deep end
 - 🥳 Having a blast while doing it
