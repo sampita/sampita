@@ -1,14 +1,5 @@
 # Hello, I'm Sam 👩🏻‍💻
 ## Nice to meet you!
-
-I'm...
-
-- 🌱 A career-changer into software development
-- 🏗 Working at a startup company
-- 🤿 Diving waaaaay into the deep end
-- 🥳 Having a blast while doing it
-- 👩🏻‍🏫 Currently learning React Native, Elixir
-
 <!--
 **sampita/sampita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
